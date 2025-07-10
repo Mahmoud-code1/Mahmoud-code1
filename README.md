@@ -13,10 +13,10 @@
 </p> 
 
 - 🏢 I'm a Back-end developer and Software Engineer
-- 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with .NET, C#, and SQL, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my linkedln profile for our info about me.
+- 👨‍💻 As an IT student,I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with .NET, C#, and SQL.
+- ⚡ Fun Fact: I'm a coffee enthusiast, so my perfect day would start and end with a cup of coffee.
+- 👨‍💻 Check out my linkedln profile for more info about me.
 
 
 ### Connect with Me :
