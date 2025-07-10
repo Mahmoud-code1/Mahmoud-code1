@@ -1,6 +1,7 @@
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
+
 <h3 align="center">
   Welcome to Mahmoud Emad's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -19,22 +20,19 @@
 
 
 ### Connect with Me :
-
-<a href="https://linkedin.com/in/mahmoudemad1" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Emad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://api.whatsapp.com/send/?phone=201009102872&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Emad-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
-
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/mahmoudemad1)
+[![](https://img.shields.io/badge/Whatsapp-008000)]([https://api.whatsapp.com/send/?phone=201009102872&text&type=phone_number&app_absent=0])
 
 
 ### 🛠 &nbsp;Tech Stack
-![.NET](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![SQL](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL&logoColor=563D7C)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![C#](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 
 
 
@@ -44,3 +42,4 @@
 <a href="https://komarev.com/ghpvc/?username=Mahmoud-code1&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Mahmoud-code1&style=for-the-badge">
 </a>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
