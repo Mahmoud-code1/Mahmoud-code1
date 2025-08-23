@@ -39,7 +39,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-code1" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=Mahmoud-code1&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Mahmoud-code1&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=MahmoudEmad-studystationn&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=MahmoudEmad-studystationn&style=for-the-badge">
 </a>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
